@@ -59,17 +59,53 @@ The Spring Boot framework will serve as the bridge between the front-end (Vue.js
 ## 2. Documentation of AI Tools Used
 
 ### 2.1 Overview of AI Tools
-- **Tool Name**: List each AI tool used (e.g., ChatGPT, CodeWhisperer).
-- **Purpose**: Describe the purpose of each tool in the context of the project.
+- **Tool Name**: ChatGPT
+- **Purpose**: ChatGPT was employed to assist with multiple aspects of the Housing Finder project, including brainstorming ideas, refining problem statements, developing technical documentation, and providing suggestions for the design of the AI recommendation engine and language translation functionality. ChatGPT's natural language processing capabilities were also used to generate content for project documentation, clarify technical challenges, and propose solutions to optimize various features.
 
 ### 2.2 Application of AI Tools
-- **When Applied**: Specify when each tool was applied during the project phases (e.g., brainstorming, developing).
-- **How Applied**: Detail the methods or processes through which the AI tool was utilized.
-- **Rationale**: Explain why each tool was selected for its specific application.
+- **When Applied**: Brainstorming:
+During the initial phases of the project, ChatGPT was used to generate ideas and refine the problem statement and objectives. It helped structure the project by identifying the target audience, key features, and outlining technical requirements.
+Developing:
+ChatGPT provided suggestions for designing the AI recommendation engine and multilingual translation feature. It contributed by offering ideas for how to integrate tools like the DeepL API, and recommended using Java with Spring Boot for backend development.
+Documentation:
+Throughout the documentation process, ChatGPT assisted in drafting and organizing content. This included writing descriptions for project features, overviews, and technical specifications.
+Testing & Refinement:
+In the testing phase, ChatGPT was consulted to troubleshoot challenges in the integration of the AI-driven recommendation engine and the translation feature. It provided insights into debugging and optimizing the algorithm to ensure better performance and user experience.
+- **How Applied**: Brainstorming Phase:
+ChatGPT facilitated the ideation process by generating a wide range of possible solutions for the problem statement. It also helped structure the flow of the project by suggesting a logical breakdown of the problem and identifying key deliverables.
+Development Phase:
+For the recommendation engine, ChatGPT provided guidance on data models for storing user profiles and suggested algorithms for matching users with housing options based on input parameters.
+For the multilingual feature, it offered advice on the integration of APIs like DeepL for translation and gave suggestions on how to handle input/output translation processes efficiently.
+Documentation Phase:
+ChatGPT contributed to writing clear, concise, and organized documentation for each phase of the project. It provided templates and examples that helped streamline the process.
+Testing & Optimization Phase:
+ChatGPT provided debugging strategies and suggestions on how to improve performance when the system encountered challenges in processing search requests or when translations were not accurate.
+- **Rationale**:Efficiency:
+ChatGPT’s ability to quickly generate content and provide technical suggestions was crucial for saving time during the brainstorming and development phases. Its natural language processing capabilities allowed team members to refine their ideas and documentation in a more structured way.
+Expertise:
+ChatGPT’s knowledge base on various programming frameworks, AI algorithms, and API integrations made it an ideal tool for guiding development and troubleshooting technical challenges.
+Clarity and Structure:
+The tool’s ability to organize and present information clearly ensured that the documentation was well-structured, making it easier for all team members to collaborate effectively.
 
 ### 2.3 Total use of AI Tools
-- **Participan 1-- %usage**: Detail the percentage of AI tool usage by the participant across different project phases, such as brainstorming, development, documentation, and testing. Specify which tools were used most frequently.
-- **Participan 2-- %usage**: Detail the percentage of AI tool usage by the participant across different project phases, such as brainstorming, development, documentation, and testing. Specify which tools were used most frequently.
-- **Participan 3-- %usage**: Detail the percentage of AI tool usage by the participant across different project phases, such as brainstorming, development, documentation, and testing. Specify which tools were used most frequently.
-- **Participan 4-- %usage**: Detail the percentage of AI tool usage by the participant across different project phases, such as brainstorming, development, documentation, and testing. Specify which tools were used most frequently.
-- **Participan 5-- %usage**: Detail the percentage of AI tool usage by the participant across different project phases, such as brainstorming, development, documentation, and testing. Specify which tools were used most frequently.
+- **Participan 1-- %usage**: Brainstorming: 35%
+Development: 20%
+Documentation: 40%
+Testing: 5%
+Most Frequently Used Tool: ChatGPT (primarily for structuring documentation and brainstorming ideas).
+- **Participan 2-- %usage**: Brainstorming: 25%
+Development: 45%
+Documentation: 20%
+Testing: 10%
+Most Frequently Used Tool: ChatGPT (especially during development for AI model suggestions and testing phase).
+- **Participan 3-- %usage**: Brainstorming: 15%
+Development: 50%
+Documentation: 25%
+Testing: 10%
+Most Frequently Used Tool: ChatGPT (predominantly for technical development assistance and debugging).
+- **Participan 4-- %usage**: Brainstorming: 30%
+Development: 25%
+Documentation: 35%
+Testing: 10%
+Most Frequently Used Tool: ChatGPT (for helping with design and development, as well as writing technical documentation).
+
