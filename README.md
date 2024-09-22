@@ -17,4 +17,4 @@ The "AI for Social Good Hackathon" is an exciting event where students get toget
 
 
 
-### PROPOSED SOLUTION: An AI-based platform, Affordable Housing Finder, specifically tailored for low-income immigrants. This platform will leverage an AI-driven recommendation engine to match users with affordable housing options based on their income levels, family size, and proximity to essential services such as schools, healthcare, and public transportation.
+### PROPOSED SOLUTION: An AI-based platform, Housing Finder, specifically tailored for low-income immigrants. This platform will leverage an AI-driven recommendation engine to match users with affordable housing options based on their income levels, family size, and proximity to essential services such as schools, healthcare, and public transportation. Furthermore, the platform incorporates a multilingual translation feature, allowing users to browse listings and platform interfaces in their preferred language.
